@@ -1,0 +1,5 @@
+1、运行WordCountMain类的main方法，启动前，需要配置main的两个参数：
+在Program arguments输入如：d:/dire.txt d:/wc后，方可运行main方法。
+
+说明：d:/dire.txt 为 需要计数的文件位置
+计数后，结果集保存的位置：d:/wc
