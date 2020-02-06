@@ -1,0 +1,3 @@
+
+打包成jar后上传到虚拟机：将需要的内容放到//home/hadoop/in_action/mr/part_txt目录下
+$ hadoop jar in_action/mr/mapreduce-3.0-SNAPSHOT.jar mr.wordcount.WordCountMain file:///home/hadoop/in_action/mr/part_txt  /mrowrdcount5
